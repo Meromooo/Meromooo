@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ammar!!
 
-<!--
-**Meromooo/Meromooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer in the making still, as I'm currently focused on React as well as clean UI designs
+and building some cool real projects from scratch.
 
-Here are some ideas to get you started:
+I'm working through The Odin Project and building my portfolio one project at a time without any rush whatsoever and everything I build goes up here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 What I'm building
+- **[Project name]** — [one sentence description] · [Live demo link]
+- More coming soon...
+
+🛠 Tech I'm working with
+React / JavaScript / HTML / CSS / Git  
+
+📫 Let's connect and make cool stuff tho!
+ammaralhamada2000@gmail.com
