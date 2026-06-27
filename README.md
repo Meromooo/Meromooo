@@ -1,12 +1,17 @@
-# Hi, I'm Ammar!!
+## Hi, I'm Ammar 👋
 
-Frontend developer, as I'm currently focused on React as well as clean UI designs
-and building some cool real projects from scratch.
+IT Specialist & Web Developer based in Helsinki, Finland.
+Currently studying Cybersecurity at Laurea University of Applied Sciences.
 
-I'm working through The Odin Project and building my portfolio one project at a time without any rush whatsoever and everything I build goes up here.
+## Live Projects
 
-🛠 Tech I'm working with
-React / JavaScript / HTML / CSS / Git  
+- [Demas Group Website] (https://demas-group.com) — Company website designed and built from scratch (PHP, HTML, CSS)
+- [Flick] (https://flick-movie-app.vercel.app/) — Movie discovery app (React, Tailwind CSS, TMDB API)
 
-📫 Let's connect and make cool stuff tho!
+## Skills
+- HTML, CSS, JavaScript
+- PHP, MySQL
+- Cybersecurity & server management
+
+📫 Let's connect and make cool stuff!
 ammaralhamada2000@gmail.com
